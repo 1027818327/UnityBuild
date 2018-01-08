@@ -1,4 +1,2 @@
-# UnityBuild
-# UnityBuild
-# UnityBuild
-# UnityBuild
+1.用到好压做为压缩工具
+2.PC机和Mac电脑要在同一局域网内
