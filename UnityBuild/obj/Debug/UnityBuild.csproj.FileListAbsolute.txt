@@ -1,0 +1,9 @@
+E:\VS_Project\UnityBuild\UnityBuild\bin\Debug\UnityBuild.exe.config
+E:\VS_Project\UnityBuild\UnityBuild\bin\Debug\UnityBuild.exe
+E:\VS_Project\UnityBuild\UnityBuild\bin\Debug\UnityBuild.pdb
+E:\VS_Project\UnityBuild\UnityBuild\obj\Debug\UnityBuild.Properties.Resources.resources
+E:\VS_Project\UnityBuild\UnityBuild\obj\Debug\UnityBuild.csproj.GenerateResource.Cache
+E:\VS_Project\UnityBuild\UnityBuild\obj\Debug\UnityBuild.exe
+E:\VS_Project\UnityBuild\UnityBuild\obj\Debug\UnityBuild.pdb
+E:\VS_Project\UnityBuild\UnityBuild\obj\Debug\UnityBuild.Form1.resources
+E:\VS_Project\UnityBuild\UnityBuild\obj\Debug\UnityBuild.csprojResolveAssemblyReference.cache
